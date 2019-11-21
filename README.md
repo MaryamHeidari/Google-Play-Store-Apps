@@ -1,5 +1,5 @@
 # Google-Play-Store-Apps
-we want to find which application is successful in Google play store, in order to guide investors in making better choices of their money when investing in applications. 
+It was a team project. We want to find which application is successful in Google play store, in order to guide investors in making better choices of their money when investing in applications. 
 
 ## Business questions
 1.Which application is going to be successful in future and worth to investigate on it?
@@ -10,9 +10,9 @@ we focused on the application variables, like average of rating, number of revie
 
 ## Steps
 cleaning data set
-Handeling missing values
-EDA (Exploratory data analysis)
-Clustering
+Handeling missing values 
+EDA (Exploratory data analysis)(my task)
+Clustering (my task)
 Linear regression 
 RMSE (for testing the linear regression model)
 
